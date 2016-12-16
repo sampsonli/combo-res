@@ -1,6 +1,6 @@
 {
-  "name": "sampsonli",
-  "version": "1.0.1",
+  "name": "combo-res",
+  "version": "1.0.0",
   "description": "combo many resource to on link",
   "main": "index.js",
   "scripts": {
