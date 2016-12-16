@@ -1,0 +1,28 @@
+{
+  "name": "sampsonli",
+  "version": "1.0.1",
+  "description": "combo many resource to on link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sampsonli/combo-res.git"
+  },
+  "keywords": [
+    "combo",
+    "combine",
+    "many",
+    "resource",
+    "to",
+    "one",
+    "request"
+  ],
+  "author": "sampsonli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampsonli/combo-res/issues"
+  },
+  "homepage": "https://github.com/sampsonli/combo-res#readme"
+}
